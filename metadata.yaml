@@ -1,0 +1,32 @@
+_repo: Celibates_6005
+creator:
+  author:
+    agent_name: Moore, George Augustus
+    aliases:
+    - Moore, George Augustus
+    - Rhone, Lady
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '1366'
+    url: http://www.gutenberg.org/2009/agents/1366
+    wikipedia: http://en.wikipedia.org/wiki/George_Moore_(novelist)
+description: In this haunting volume of three novella-length stories, Moore explores
+  three characters, each drawn into a life of celibacy. The book features Mildred
+  Lawson, the pretty but selfish woman who is plagued by the worry that her husband
+  married her for money alone; John Norton, a would-be monk who finds his only passion
+  in religious fanaticism; and Agnes Lahens, a timid woman who enters the convent
+  as a means of self-protection.
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6005'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+tableOfContents: Mildred Lawson -- John Norton -- Agnes Lahens
+title: Celibates
+url: http://www.gutenberg.org/ebooks/6005
